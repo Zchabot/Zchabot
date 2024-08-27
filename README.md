@@ -10,5 +10,6 @@
 - You can also find links to the launched applications on the README files for each of the front end repositories.
 
 ## Contact Information
--zacharychabot95@gamil.com
+-zacharychabot95@gmail.com
+
 -www.linkedin.com/in/zachary-chabot
