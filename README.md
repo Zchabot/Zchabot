@@ -1,15 +1,54 @@
-## Introduction
-- Hi, my name is Zachary Chabot.
-- I am a Full Stack Software Engineer with experience developing MERN stack web applications.
-- I graduated from the Triple Ten Software Engineer Program.
-- My technical skills include JavaScript, ES6, HTML5, CSS, BEM, React, React Router, JSX, Node.js, Express.js, MongoDB, Git, Webpack, Babel, eslint, RESTful API principals, learning Python.
+# Hi, I'm Zachary Chabot 👋
 
-## Recent Projects
-- My most recent project was a web application called News Explorer. You can find the code for the front and back end of the application in my repositories.
-- My second most recent project was a web application called What to Wear. You can find the font end code under se_project_react and the back end under se_project_express in my repositories.
-- You can also find links to the launched applications on the README files for each of the front end repositories.
+Full-stack JavaScript developer focused on building scalable web applications with clean architecture and practical engineering practices. I enjoy working across the stack — from responsive frontend interfaces to secure, database-backed APIs.
 
-## Contact Information
--zacharychabot95@gmail.com
+---
 
--www.linkedin.com/in/zachary-chabot
+## 🛠 Tech Stack
+
+**Frontend:** React, JavaScript (ES6+), CSS, Webpack  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Other:** REST APIs, JWT Authentication, Git, Cloud VM Deployment
+
+---
+
+## 🔥 Featured Projects
+
+### 📰 News Explorer (MERN Stack)
+Full-stack application for searching and saving news articles with user authentication and persistent MongoDB storage. Integrates a third-party news API and demonstrates protected routes and state-driven UI updates.
+
+**Tech:** React, Express, MongoDB, JWT, REST API
+
+---
+
+### 🌤 What to Wear (WTWR) — Weather Outfit Planner
+Weather-driven outfit recommendation app that dynamically renders clothing suggestions based on real-time API data. Includes user accounts and database-backed item management.
+
+**Tech:** React, Node.js, Express, MongoDB
+
+---
+
+### 📸 Around the US — Modular Frontend Application
+Frontend-focused project built with ES6 modules and a Webpack build pipeline. Demonstrates scalable JavaScript architecture, reusable components, and asynchronous data rendering.
+
+**Tech:** JavaScript (ES6), Webpack, BEM CSS
+
+---
+
+## 🎯 What I Focus On
+
+- Designing clean REST APIs  
+- Implementing authentication and protected routes  
+- Structuring scalable frontend architectures  
+- Managing asynchronous data flows  
+- Writing maintainable, modular code  
+
+---
+
+## 📫 Contact
+
+Open to junior software engineering roles.
+
+**Email:** zacharychabot95@gmail.com 
+**LinkedIn:** www.linkedin.com/in/zachary-chabot
